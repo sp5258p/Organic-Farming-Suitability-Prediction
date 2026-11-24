@@ -108,7 +108,7 @@ Organic-Farming-Suitability-Prediction/
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/Organic-Farming-Suitability-Prediction.git
+git clone https://github.com/sp5258p/Organic-Farming-Suitability-Prediction.git
 
 Replace "YOUR-USERNAME" with your GitHub username.
 
