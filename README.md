@@ -110,8 +110,6 @@ Organic-Farming-Suitability-Prediction/
 
 git clone https://github.com/sp5258p/Organic-Farming-Suitability-Prediction.git
 
-Replace "YOUR-USERNAME" with your GitHub username.
-
 2. Open the Project Folder
 
 cd Organic-Farming-Suitability-Prediction
